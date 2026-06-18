@@ -1,0 +1,104 @@
+#   .-')                                       .-. .-')                    
+#  ( OO ).                                     \  ( OO )                   
+# (_)---\_)   .-----.  .-'),-----.  .-'),-----. ;-----.\  ,--.   ,--.      
+# /    _ |   '  .--./ ( OO'  .-.  '( OO'  .-.  '| .-.  |   \  `.'  /       
+# \  :` `.   |  |('-. /   |  | |  |/   |  | |  || '-' /_).-')     /        
+#  '..`''.) /_) |OO  )\_) |  |\|  |\_) |  |\|  || .-. `.(OO  \   /         
+# .-._)   \ ||  |`-'|   \ |  | |  |  \ |  | |  || |  \  ||   /  /\_        
+# \       /(_'  '--'\    `'  '-'  '   `'  '-'  '| '--'  /`-./  /.__)       
+#  `-----'    `-----'      `-----'      `-----' `------'   `--'            
+#  _ .-') _                                                                
+# ( (  OO) )                                                               
+#  \     .'_  .-'),-----.  .-'),-----.                                     
+#  ,`'--..._)( OO'  .-.  '( OO'  .-.  '                                    
+#  |  |  \  '/   |  | |  |/   |  | |  |                                    
+#  |  |   ' |\_) |  |\|  |\_) |  |\|  |                                    
+#  |  |   / :  \ |  | |  |  \ |  | |  |                                    
+#  |  '--'  /   `'  '-'  '   `'  '-'  '                                    
+#  `-------'      `-----'      `-----'                                     
+
+# Main background, empty for terminal default, need to be empty if you want transparent background
+theme[main_bg]="#2c1a12"
+
+# Main text color
+theme[main_fg]="#f9cd71"
+
+# Title color for boxes
+theme[title]="#a873dc"
+
+# Highlight color for keyboard shortcuts
+theme[hi_fg]="#a76104"
+
+# Background color of selected item in processes box
+theme[selected_bg]="#6e442a"
+
+# Foreground color of selected item in processes box
+theme[selected_fg]="#f9cd71"
+
+# Color of inactive/disabled text
+theme[inactive_fg]="#6e442a"
+
+# Misc colors for processes box including mini cpu graphs, details memory graph and details status text
+theme[proc_misc]="#a873dc"
+
+# Box outline and divider line color
+theme[cpu_box]="#a8bb0a"
+theme[mem_box]="#a8bb0a"
+theme[net_box]="#a8bb0a"
+theme[proc_box]="#a8bb0a"
+theme[div_line]="#6e442a"
+
+# Gradient for all meters and graphs
+# Rich Scooby palette ramps: Mystery Machine teal/green, snack orange/yellow, haunted purple/red.
+theme[temp_start]="#45b193"
+theme[temp_mid]="#ffa63e"
+theme[temp_end]="#e75057"
+
+
+theme[cpu_start]="#45b193"
+theme[cpu_mid]="#a8bb0a"
+theme[cpu_end]="#f9cd71"
+
+
+theme[free_start]="#6e442a"
+theme[free_mid]="#45b193"
+theme[free_end]="#8af3d1"
+
+
+theme[cached_start]="#a76104"
+theme[cached_mid]="#fa8601"
+theme[cached_end]="#ffef93"
+
+
+theme[available_start]="#2c1a12"
+theme[available_mid]="#a873dc"
+theme[available_end]="#eda9ff"
+
+
+theme[used_start]="#a8bb0a"
+theme[used_mid]="#fa8601"
+theme[used_end]="#dc7e69"
+
+
+theme[download_start]="#45b193"
+theme[download_mid]="#8af3d1"
+theme[download_end]="#f9cd71"
+
+
+theme[upload_start]="#a873dc"
+theme[upload_mid]="#fa8601"
+theme[upload_end]="#ffef93"
+
+#  ______   __       ______                                       
+# /_____/\ /_/\     /_____/\                                      
+# \:::_ \ \\:\ \    \:::_ \ \                                     
+#  \:\ \ \ \\:\ \    \:\ \ \ \                                    
+#   \:\ \ \ \\:\ \____\:\ \ \ \                                   
+#    \:\_\ \ \\:\/___/\\:\/.:| |                                  
+#  ___\_____\/_\_____\/ \____/_/  ______    _______   ______      
+# /________/\/_____/\ /_______/\ /_____/\ /_______/\ /_____/\     
+# \__.::.__\/\:::_ \ \\::: _  \ \\:::_ \ \\::: _  \ \\:::_ \ \    
+#   /_\::\ \  \:\ \ \ \\::(_)  \/_\:\ \ \ \\::(_)  \/_\:\ \ \ \   
+#   \:.\::\ \  \:\ \ \ \\::  _  \ \\:\ \ \ \\::  _  \ \\:\ \ \ \  
+#    \: \  \ \  \:\_\ \ \\::(_)  \ \\:\_\ \ \\::(_)  \ \\:\_\ \ \ 
+#     \_____\/   \_____\/ \_______\/ \_____\/ \_______\/ \_____\/ 

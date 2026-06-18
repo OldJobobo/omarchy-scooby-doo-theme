@@ -1,0 +1,96 @@
+#   .-')                                       .-. .-')                    
+#  ( OO ).                                     \  ( OO )                   
+# (_)---\_)   .-----.  .-'),-----.  .-'),-----. ;-----.\  ,--.   ,--.      
+# /    _ |   '  .--./ ( OO'  .-.  '( OO'  .-.  '| .-.  |   \  `.'  /       
+# \  :` `.   |  |('-. /   |  | |  |/   |  | |  || '-' /_).-')     /        
+#  '..`''.) /_) |OO  )\_) |  |\|  |\_) |  |\|  || .-. `.(OO  \   /         
+# .-._)   \ ||  |`-'|   \ |  | |  |  \ |  | |  || |  \  ||   /  /\_        
+# \       /(_'  '--'\    `'  '-'  '   `'  '-'  '| '--'  /`-./  /.__)       
+#  `-----'    `-----'      `-----'      `-----' `------'   `--'            
+#  _ .-') _                                                                
+# ( (  OO) )                                                               
+#  \     .'_  .-'),-----.  .-'),-----.                                     
+#  ,`'--..._)( OO'  .-.  '( OO'  .-.  '                                    
+#  |  |  \  '/   |  | |  |/   |  | |  |                                    
+#  |  |   ' |\_) |  |\|  |\_) |  |\|  |                                    
+#  |  |   / :  \ |  | |  |  \ |  | |  |                                    
+#  |  '--'  /   `'  '-'  '   `'  '-'  '                                    
+#  `-------'      `-----'      `-----'                                     
+
+mode = "dark"
+
+# Accent and UI colors
+accent = "#45b193"
+active_border_color = "#8af3d1"
+active_tab_background = "#45b193"
+
+# Cursor and primary colors
+cursor = "#f9cd71"
+foreground = "#f9cd71"
+background = "#2c1a12"
+
+# Selection colors
+selection_foreground = "#2c1a12"
+selection_background = "#45b193"
+
+# Base24-like Omarchy semantic roles
+# These are the keys consumed by current Omarchy templates.
+bg = "#2c1a12"
+lighter_bg = "#3a2619"
+selection = "#4b3020"
+muted = "#6e442a"
+dark_fg = "#ce853b"
+fg = "#f9cd71"
+light_fg = "#ffef93"
+bright_fg = "#fff4b8"
+
+red = "#e75057"
+yellow = "#ffa63e"
+orange = "#fa8601"
+green = "#a8bb0a"
+cyan = "#8af3d1"
+blue = "#45b193"
+magenta = "#a873dc"
+brown = "#a76104"
+
+dark_bg = "#21130e"
+darker_bg = "#140c08"
+bright_red = "#dc7e69"
+bright_yellow = "#ffa63e"
+bright_green = "#d8f960"
+bright_cyan = "#8af3d1"
+bright_blue = "#45b193"
+bright_magenta = "#eda9ff"
+
+# Legacy ANSI compatibility aliases
+# Keep these mirrored from the semantic roles above.
+color0 = "#2c1a12"
+color1 = "#e75057"
+color2 = "#a8bb0a"
+color3 = "#ffa63e"
+color4 = "#45b193"
+color5 = "#a873dc"
+color6 = "#8af3d1"
+color7 = "#f9cd71"
+color8 = "#6e442a"
+color9 = "#dc7e69"
+color10 = "#d8f960"
+color11 = "#ffa63e"
+color12 = "#45b193"
+color13 = "#eda9ff"
+color14 = "#8af3d1"
+color15 = "#fff4b8"
+
+#  ______   __       ______                                       
+# /_____/\ /_/\     /_____/\                                      
+# \:::_ \ \\:\ \    \:::_ \ \                                     
+#  \:\ \ \ \\:\ \    \:\ \ \ \                                    
+#   \:\ \ \ \\:\ \____\:\ \ \ \                                   
+#    \:\_\ \ \\:\/___/\\:\/.:| |                                  
+#  ___\_____\/_\_____\/ \____/_/  ______    _______   ______      
+# /________/\/_____/\ /_______/\ /_____/\ /_______/\ /_____/\     
+# \__.::.__\/\:::_ \ \\::: _  \ \\:::_ \ \\::: _  \ \\:::_ \ \    
+#   /_\::\ \  \:\ \ \ \\::(_)  \/_\:\ \ \ \\::(_)  \/_\:\ \ \ \   
+#   \:.\::\ \  \:\ \ \ \\::  _  \ \\:\ \ \ \\::  _  \ \\:\ \ \ \  
+#    \: \  \ \  \:\_\ \ \\::(_)  \ \\:\_\ \ \\::(_)  \ \\:\_\ \ \ 
+#     \_____\/   \_____\/ \_______\/ \_____\/ \_______\/ \_____\/ 

@@ -1,0 +1,68 @@
+#   .-')                                       .-. .-')                    
+#  ( OO ).                                     \  ( OO )                   
+# (_)---\_)   .-----.  .-'),-----.  .-'),-----. ;-----.\  ,--.   ,--.      
+# /    _ |   '  .--./ ( OO'  .-.  '( OO'  .-.  '| .-.  |   \  `.'  /       
+# \  :` `.   |  |('-. /   |  | |  |/   |  | |  || '-' /_).-')     /        
+#  '..`''.) /_) |OO  )\_) |  |\|  |\_) |  |\|  || .-. `.(OO  \   /         
+# .-._)   \ ||  |`-'|   \ |  | |  |  \ |  | |  || |  \  ||   /  /\_        
+# \       /(_'  '--'\    `'  '-'  '   `'  '-'  '| '--'  /`-./  /.__)       
+#  `-----'    `-----'      `-----'      `-----' `------'   `--'            
+#  _ .-') _                                                                
+# ( (  OO) )                                                               
+#  \     .'_  .-'),-----.  .-'),-----.                                     
+#  ,`'--..._)( OO'  .-.  '( OO'  .-.  '                                    
+#  |  |  \  '/   |  | |  |/   |  | |  |                                    
+#  |  |   ' |\_) |  |\|  |\_) |  |\|  |                                    
+#  |  |   / :  \ |  | |  |  \ |  | |  |                                    
+#  |  '--'  /   `'  '-'  '   `'  '-'  '                                    
+#  `-------'      `-----'      `-----'                                     
+
+system: "base24"
+name: "Scooby Doo"
+author: "OldJobobo"
+variant: "dark"
+
+palette:
+  # --- core tonal ramp ---
+  base00: "#2c1a12" # default background
+  base01: "#3a2619" # lighter background
+  base02: "#4b3020" # selection / elevated background
+  base03: "#6e442a" # comments / muted brown
+  base04: "#ce853b" # secondary warm foreground
+  base05: "#f9cd71" # default foreground
+  base06: "#ffef93" # light foreground
+  base07: "#fff4b8" # brightest foreground
+
+  # --- standard accent lanes ---
+  base08: "#e75057" # red / error
+  base09: "#fa8601" # orange / constants
+  base0A: "#ffa63e" # yellow-orange / search
+  base0B: "#a8bb0a" # green
+  base0C: "#8af3d1" # cyan / support
+  base0D: "#45b193" # teal-blue / functions
+  base0E: "#a873dc" # purple / keywords
+  base0F: "#a76104" # brown / embedded
+
+  # --- extended dark / bright accents ---
+  base10: "#21130e" # darker background
+  base11: "#140c08" # darkest background
+  base12: "#dc7e69" # bright red
+  base13: "#ffa63e" # bright orange-yellow
+  base14: "#d8f960" # bright green
+  base15: "#8af3d1" # bright cyan
+  base16: "#45b193" # bright teal-blue
+  base17: "#eda9ff" # bright purple
+
+#  ______   __       ______                                       
+# /_____/\ /_/\     /_____/\                                      
+# \:::_ \ \\:\ \    \:::_ \ \                                     
+#  \:\ \ \ \\:\ \    \:\ \ \ \                                    
+#   \:\ \ \ \\:\ \____\:\ \ \ \                                   
+#    \:\_\ \ \\:\/___/\\:\/.:| |                                  
+#  ___\_____\/_\_____\/ \____/_/  ______    _______   ______      
+# /________/\/_____/\ /_______/\ /_____/\ /_______/\ /_____/\     
+# \__.::.__\/\:::_ \ \\::: _  \ \\:::_ \ \\::: _  \ \\:::_ \ \    
+#   /_\::\ \  \:\ \ \ \\::(_)  \/_\:\ \ \ \\::(_)  \/_\:\ \ \ \   
+#   \:.\::\ \  \:\ \ \ \\::  _  \ \\:\ \ \ \\::  _  \ \\:\ \ \ \  
+#    \: \  \ \  \:\_\ \ \\::(_)  \ \\:\_\ \ \\::(_)  \ \\:\_\ \ \ 
+#     \_____\/   \_____\/ \_______\/ \_____\/ \_______\/ \_____\/ 
