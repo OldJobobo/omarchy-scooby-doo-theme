@@ -63,7 +63,7 @@ bright_blue = "#8af3d1"
 bright_magenta = "#eda9ff"
 
 # Legacy ANSI compatibility aliases
-#color0 = "#2c1a12"
+color0 = "#2c1a12"
 color1 = "#e75057"
 color2 = "#a8bb0a"
 color3 = "#fa8601"
